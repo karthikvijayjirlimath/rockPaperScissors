@@ -1,8 +1,8 @@
 import random
 import time
 
-
-moves = ['✌','🙌','👌']
+#👌 -> rock, ✌ -> scissors, 🙌 -> Scissors
+moves = ['✌','🙌','👌']  
 
 user = input('hi user.Whats your name?\n')
 
